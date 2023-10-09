@@ -1,5 +1,5 @@
 # challenge_4
-This repository has the files related to Module 4 Challenge and below are the references to the code.
+This repository compares traditional investment strategies with algorithmic trading.
 
 ## References
 * [Function .absolute()](https://www.programiz.com/python-programming/examples/current-working-directory)
